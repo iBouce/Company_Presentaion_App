@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Galucho Algérie Spa</string>
+    <string name="executive_head">Contacter nous :</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+    <string name="email_subject">Requête au Galucho Algérie Spa</string>
+    <string name="wholesale">Société de Fabrication et Commercialisation de Matériels Agricole de Travail du Sol et de Transport Agraire.</string>
+</resources>
